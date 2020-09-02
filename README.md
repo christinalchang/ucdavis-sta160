@@ -7,6 +7,6 @@ The data sets are from the UCI Machine Learning Data Repository. The links to th
   * [Superconductivity data](https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data)
 
 ## Projects
-  * `automobile.ipynb`: Analyze automobile attributes.
-  * `seeds.ipynb`: Analyze properties of kernels belonging to three different wheat varieties.
-  * `superconductivity.ipynb`: Predict the critical temperature of superconductors.
+  * `automobile.ipynb`: Analyze automobile attributes. See the project report [here](/automobile_report.pdf).
+  * `seeds.ipynb`: Analyze properties of kernels belonging to three different wheat varieties. See the project report [here](/seeds_report.pdf).
+  * `superconductivity.ipynb`: Predict the critical temperature of superconductors. See the project report [here](/superconductivity_report.pdf).
